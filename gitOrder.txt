@@ -1,4 +1,4 @@
-git remote add origin git@github.com:monenglufy/IfeTest.git
+ï»¿git remote add origin git@github.com:monenglufy/IfeTest.git
 
 git config --global user.name "monenglufy"
 git config --global user.email "monenglufy@monenglufy@qq.com"
@@ -10,10 +10,10 @@ http://htmlpreview.github.com/?https://github.com/monenglufy/IfeTest/blob/master
 
 git@github.com:monenglufy/IfeTest.git
 
-ÏÂÔØ
+ä¸‹è½½ï¼š
 git pull git@github.com:monenglufy/IfeTest.git
 
-ÉÏ´«
+ä¸Šä¼ ï¼š
 git add .
 git commit -m "task1to5"
 git push git@github.com:monenglufy/IfeTest.git
